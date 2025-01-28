@@ -27,4 +27,3 @@ def load():
                 description=element["description"]
             ))
     return elements
-

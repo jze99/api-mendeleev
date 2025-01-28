@@ -1,0 +1,32 @@
+[
+    {
+        "atomic_number": 1,
+        "name": "Hydrogen",
+        "symbol": "H",
+        "description": "A colorless, odorless gas that is the lightest and most abundant element in the universe."
+    },
+    {
+        "atomic_number": 2,
+        "name": "Helium",
+        "symbol": "He",
+        "description": "A colorless, odorless, tasteless, non-toxic, inert gas that heads the noble gas group in the periodic table."
+    },
+    {
+        "atomic_number": 3,
+        "name": "Lithium",
+        "symbol": "Li",
+        "description": "A soft, silvery-white metal that is the lightest metal and the least dense solid element."
+    },
+    {
+        "atomic_number": 4,
+        "name": "Beryllium",
+        "symbol": "Be",
+        "description": "A hard, gray metal that is relatively rare in the universe and is used in aerospace components."
+    },
+    {
+        "atomic_number": 5,
+        "name": "Boron",
+        "symbol": "B",
+        "description": "A metalloid essential for plant growth and used in glass and ceramics."
+    }
+]
