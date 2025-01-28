@@ -17,7 +17,7 @@ def read_root():
 @app.get("/load")
 def load():
     elements = []
-    with open("elements.json", 'r', encoding='utf-8') as file:
+    with open("periodic_table.json", 'r', encoding='utf-8') as file:
         data = json.load(file)
         for element in data:
             elements.append(Element(
