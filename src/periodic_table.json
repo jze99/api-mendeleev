@@ -1,710 +1,120 @@
 [
-    {
-        "atomic_number": 1,
-        "name": "Водород",
-        "symbol": "H",
-        "description": "Бесцветный, без запаха газ, являющийся самым легким и распространенным элементом во Вселенной."
-    },
-    {
-        "atomic_number": 2,
-        "name": "Гелий",
-        "symbol": "He",
-        "description": "Бесцветный, безвкусный, нетоксичный, инертный газ, входящий в группу благородных газов."
-    },
-    {
-        "atomic_number": 3,
-        "name": "Литий",
-        "symbol": "Li",
-        "description": "Мягкий, серебристо-белый металл, являющийся самым легким металлом и наименее плотным твердым элементом."
-    },
-    {
-        "atomic_number": 4,
-        "name": "Бериллий",
-        "symbol": "Be",
-        "description": "Твердый, серый металл, который относительно редок и используется в аэрокосмической промышленности."
-    },
-    {
-        "atomic_number": 5,
-        "name": "Бор",
-        "symbol": "B",
-        "description": "Металлоид, необходимый для роста растений и используемый в производстве стекла и керамики."
-    },
-    {
-        "atomic_number": 6,
-        "name": "Углерод",
-        "symbol": "C",
-        "description": "Элемент, лежащий в основе органической химии и всех известных форм жизни на Земле."
-    },
-    {
-        "atomic_number": 7,
-        "name": "Азот",
-        "symbol": "N",
-        "description": "Бесцветный газ, составляющий большую часть атмосферы Земли и необходимый для всех живых организмов."
-    },
-    {
-        "atomic_number": 8,
-        "name": "Кислород",
-        "symbol": "O",
-        "description": "Элемент, необходимый для дыхания большинства живых существ и составляющий значительную часть земной коры."
-    },
-    {
-        "atomic_number": 9,
-        "name": "Фтор",
-        "symbol": "F",
-        "description": "Реакционноспособный газ, используемый в производстве зубных паст и некоторых пластмасс."
-    },
-    {
-        "atomic_number": 10,
-        "name": "Неон",
-        "symbol": "Ne",
-        "description": "Инертный газ, широко применяемый в световых вывесках и декоративном освещении."
-    },
-    {
-        "atomic_number": 11,
-        "name": "Элемент 11",
-        "symbol": "E11",
-        "description": "Описание для элемента с атомным номером 11."
-    },
-    {
-        "atomic_number": 12,
-        "name": "Элемент 12",
-        "symbol": "E12",
-        "description": "Описание для элемента с атомным номером 12."
-    },
-    {
-        "atomic_number": 13,
-        "name": "Элемент 13",
-        "symbol": "E13",
-        "description": "Описание для элемента с атомным номером 13."
-    },
-    {
-        "atomic_number": 14,
-        "name": "Элемент 14",
-        "symbol": "E14",
-        "description": "Описание для элемента с атомным номером 14."
-    },
-    {
-        "atomic_number": 15,
-        "name": "Элемент 15",
-        "symbol": "E15",
-        "description": "Описание для элемента с атомным номером 15."
-    },
-    {
-        "atomic_number": 16,
-        "name": "Элемент 16",
-        "symbol": "E16",
-        "description": "Описание для элемента с атомным номером 16."
-    },
-    {
-        "atomic_number": 17,
-        "name": "Элемент 17",
-        "symbol": "E17",
-        "description": "Описание для элемента с атомным номером 17."
-    },
-    {
-        "atomic_number": 18,
-        "name": "Элемент 18",
-        "symbol": "E18",
-        "description": "Описание для элемента с атомным номером 18."
-    },
-    {
-        "atomic_number": 19,
-        "name": "Элемент 19",
-        "symbol": "E19",
-        "description": "Описание для элемента с атомным номером 19."
-    },
-    {
-        "atomic_number": 20,
-        "name": "Элемент 20",
-        "symbol": "E20",
-        "description": "Описание для элемента с атомным номером 20."
-    },
-    {
-        "atomic_number": 21,
-        "name": "Элемент 21",
-        "symbol": "E21",
-        "description": "Описание для элемента с атомным номером 21."
-    },
-    {
-        "atomic_number": 22,
-        "name": "Элемент 22",
-        "symbol": "E22",
-        "description": "Описание для элемента с атомным номером 22."
-    },
-    {
-        "atomic_number": 23,
-        "name": "Элемент 23",
-        "symbol": "E23",
-        "description": "Описание для элемента с атомным номером 23."
-    },
-    {
-        "atomic_number": 24,
-        "name": "Элемент 24",
-        "symbol": "E24",
-        "description": "Описание для элемента с атомным номером 24."
-    },
-    {
-        "atomic_number": 25,
-        "name": "Элемент 25",
-        "symbol": "E25",
-        "description": "Описание для элемента с атомным номером 25."
-    },
-    {
-        "atomic_number": 26,
-        "name": "Элемент 26",
-        "symbol": "E26",
-        "description": "Описание для элемента с атомным номером 26."
-    },
-    {
-        "atomic_number": 27,
-        "name": "Элемент 27",
-        "symbol": "E27",
-        "description": "Описание для элемента с атомным номером 27."
-    },
-    {
-        "atomic_number": 28,
-        "name": "Элемент 28",
-        "symbol": "E28",
-        "description": "Описание для элемента с атомным номером 28."
-    },
-    {
-        "atomic_number": 29,
-        "name": "Элемент 29",
-        "symbol": "E29",
-        "description": "Описание для элемента с атомным номером 29."
-    },
-    {
-        "atomic_number": 30,
-        "name": "Элемент 30",
-        "symbol": "E30",
-        "description": "Описание для элемента с атомным номером 30."
-    },
-    {
-        "atomic_number": 31,
-        "name": "Элемент 31",
-        "symbol": "E31",
-        "description": "Описание для элемента с атомным номером 31."
-    },
-    {
-        "atomic_number": 32,
-        "name": "Элемент 32",
-        "symbol": "E32",
-        "description": "Описание для элемента с атомным номером 32."
-    },
-    {
-        "atomic_number": 33,
-        "name": "Элемент 33",
-        "symbol": "E33",
-        "description": "Описание для элемента с атомным номером 33."
-    },
-    {
-        "atomic_number": 34,
-        "name": "Элемент 34",
-        "symbol": "E34",
-        "description": "Описание для элемента с атомным номером 34."
-    },
-    {
-        "atomic_number": 35,
-        "name": "Элемент 35",
-        "symbol": "E35",
-        "description": "Описание для элемента с атомным номером 35."
-    },
-    {
-        "atomic_number": 36,
-        "name": "Элемент 36",
-        "symbol": "E36",
-        "description": "Описание для элемента с атомным номером 36."
-    },
-    {
-        "atomic_number": 37,
-        "name": "Элемент 37",
-        "symbol": "E37",
-        "description": "Описание для элемента с атомным номером 37."
-    },
-    {
-        "atomic_number": 38,
-        "name": "Элемент 38",
-        "symbol": "E38",
-        "description": "Описание для элемента с атомным номером 38."
-    },
-    {
-        "atomic_number": 39,
-        "name": "Элемент 39",
-        "symbol": "E39",
-        "description": "Описание для элемента с атомным номером 39."
-    },
-    {
-        "atomic_number": 40,
-        "name": "Элемент 40",
-        "symbol": "E40",
-        "description": "Описание для элемента с атомным номером 40."
-    },
-    {
-        "atomic_number": 41,
-        "name": "Элемент 41",
-        "symbol": "E41",
-        "description": "Описание для элемента с атомным номером 41."
-    },
-    {
-        "atomic_number": 42,
-        "name": "Элемент 42",
-        "symbol": "E42",
-        "description": "Описание для элемента с атомным номером 42."
-    },
-    {
-        "atomic_number": 43,
-        "name": "Элемент 43",
-        "symbol": "E43",
-        "description": "Описание для элемента с атомным номером 43."
-    },
-    {
-        "atomic_number": 44,
-        "name": "Элемент 44",
-        "symbol": "E44",
-        "description": "Описание для элемента с атомным номером 44."
-    },
-    {
-        "atomic_number": 45,
-        "name": "Элемент 45",
-        "symbol": "E45",
-        "description": "Описание для элемента с атомным номером 45."
-    },
-    {
-        "atomic_number": 46,
-        "name": "Элемент 46",
-        "symbol": "E46",
-        "description": "Описание для элемента с атомным номером 46."
-    },
-    {
-        "atomic_number": 47,
-        "name": "Элемент 47",
-        "symbol": "E47",
-        "description": "Описание для элемента с атомным номером 47."
-    },
-    {
-        "atomic_number": 48,
-        "name": "Элемент 48",
-        "symbol": "E48",
-        "description": "Описание для элемента с атомным номером 48."
-    },
-    {
-        "atomic_number": 49,
-        "name": "Элемент 49",
-        "symbol": "E49",
-        "description": "Описание для элемента с атомным номером 49."
-    },
-    {
-        "atomic_number": 50,
-        "name": "Элемент 50",
-        "symbol": "E50",
-        "description": "Описание для элемента с атомным номером 50."
-    },
-    {
-        "atomic_number": 51,
-        "name": "Элемент 51",
-        "symbol": "E51",
-        "description": "Описание для элемента с атомным номером 51."
-    },
-    {
-        "atomic_number": 52,
-        "name": "Элемент 52",
-        "symbol": "E52",
-        "description": "Описание для элемента с атомным номером 52."
-    },
-    {
-        "atomic_number": 53,
-        "name": "Элемент 53",
-        "symbol": "E53",
-        "description": "Описание для элемента с атомным номером 53."
-    },
-    {
-        "atomic_number": 54,
-        "name": "Элемент 54",
-        "symbol": "E54",
-        "description": "Описание для элемента с атомным номером 54."
-    },
-    {
-        "atomic_number": 55,
-        "name": "Элемент 55",
-        "symbol": "E55",
-        "description": "Описание для элемента с атомным номером 55."
-    },
-    {
-        "atomic_number": 56,
-        "name": "Элемент 56",
-        "symbol": "E56",
-        "description": "Описание для элемента с атомным номером 56."
-    },
-    {
-        "atomic_number": 57,
-        "name": "Элемент 57",
-        "symbol": "E57",
-        "description": "Описание для элемента с атомным номером 57."
-    },
-    {
-        "atomic_number": 58,
-        "name": "Элемент 58",
-        "symbol": "E58",
-        "description": "Описание для элемента с атомным номером 58."
-    },
-    {
-        "atomic_number": 59,
-        "name": "Элемент 59",
-        "symbol": "E59",
-        "description": "Описание для элемента с атомным номером 59."
-    },
-    {
-        "atomic_number": 60,
-        "name": "Элемент 60",
-        "symbol": "E60",
-        "description": "Описание для элемента с атомным номером 60."
-    },
-    {
-        "atomic_number": 61,
-        "name": "Элемент 61",
-        "symbol": "E61",
-        "description": "Описание для элемента с атомным номером 61."
-    },
-    {
-        "atomic_number": 62,
-        "name": "Элемент 62",
-        "symbol": "E62",
-        "description": "Описание для элемента с атомным номером 62."
-    },
-    {
-        "atomic_number": 63,
-        "name": "Элемент 63",
-        "symbol": "E63",
-        "description": "Описание для элемента с атомным номером 63."
-    },
-    {
-        "atomic_number": 64,
-        "name": "Элемент 64",
-        "symbol": "E64",
-        "description": "Описание для элемента с атомным номером 64."
-    },
-    {
-        "atomic_number": 65,
-        "name": "Элемент 65",
-        "symbol": "E65",
-        "description": "Описание для элемента с атомным номером 65."
-    },
-    {
-        "atomic_number": 66,
-        "name": "Элемент 66",
-        "symbol": "E66",
-        "description": "Описание для элемента с атомным номером 66."
-    },
-    {
-        "atomic_number": 67,
-        "name": "Элемент 67",
-        "symbol": "E67",
-        "description": "Описание для элемента с атомным номером 67."
-    },
-    {
-        "atomic_number": 68,
-        "name": "Элемент 68",
-        "symbol": "E68",
-        "description": "Описание для элемента с атомным номером 68."
-    },
-    {
-        "atomic_number": 69,
-        "name": "Элемент 69",
-        "symbol": "E69",
-        "description": "Описание для элемента с атомным номером 69."
-    },
-    {
-        "atomic_number": 70,
-        "name": "Элемент 70",
-        "symbol": "E70",
-        "description": "Описание для элемента с атомным номером 70."
-    },
-    {
-        "atomic_number": 71,
-        "name": "Элемент 71",
-        "symbol": "E71",
-        "description": "Описание для элемента с атомным номером 71."
-    },
-    {
-        "atomic_number": 72,
-        "name": "Элемент 72",
-        "symbol": "E72",
-        "description": "Описание для элемента с атомным номером 72."
-    },
-    {
-        "atomic_number": 73,
-        "name": "Элемент 73",
-        "symbol": "E73",
-        "description": "Описание для элемента с атомным номером 73."
-    },
-    {
-        "atomic_number": 74,
-        "name": "Элемент 74",
-        "symbol": "E74",
-        "description": "Описание для элемента с атомным номером 74."
-    },
-    {
-        "atomic_number": 75,
-        "name": "Элемент 75",
-        "symbol": "E75",
-        "description": "Описание для элемента с атомным номером 75."
-    },
-    {
-        "atomic_number": 76,
-        "name": "Элемент 76",
-        "symbol": "E76",
-        "description": "Описание для элемента с атомным номером 76."
-    },
-    {
-        "atomic_number": 77,
-        "name": "Элемент 77",
-        "symbol": "E77",
-        "description": "Описание для элемента с атомным номером 77."
-    },
-    {
-        "atomic_number": 78,
-        "name": "Элемент 78",
-        "symbol": "E78",
-        "description": "Описание для элемента с атомным номером 78."
-    },
-    {
-        "atomic_number": 79,
-        "name": "Элемент 79",
-        "symbol": "E79",
-        "description": "Описание для элемента с атомным номером 79."
-    },
-    {
-        "atomic_number": 80,
-        "name": "Элемент 80",
-        "symbol": "E80",
-        "description": "Описание для элемента с атомным номером 80."
-    },
-    {
-        "atomic_number": 81,
-        "name": "Элемент 81",
-        "symbol": "E81",
-        "description": "Описание для элемента с атомным номером 81."
-    },
-    {
-        "atomic_number": 82,
-        "name": "Элемент 82",
-        "symbol": "E82",
-        "description": "Описание для элемента с атомным номером 82."
-    },
-    {
-        "atomic_number": 83,
-        "name": "Элемент 83",
-        "symbol": "E83",
-        "description": "Описание для элемента с атомным номером 83."
-    },
-    {
-        "atomic_number": 84,
-        "name": "Элемент 84",
-        "symbol": "E84",
-        "description": "Описание для элемента с атомным номером 84."
-    },
-    {
-        "atomic_number": 85,
-        "name": "Элемент 85",
-        "symbol": "E85",
-        "description": "Описание для элемента с атомным номером 85."
-    },
-    {
-        "atomic_number": 86,
-        "name": "Элемент 86",
-        "symbol": "E86",
-        "description": "Описание для элемента с атомным номером 86."
-    },
-    {
-        "atomic_number": 87,
-        "name": "Элемент 87",
-        "symbol": "E87",
-        "description": "Описание для элемента с атомным номером 87."
-    },
-    {
-        "atomic_number": 88,
-        "name": "Элемент 88",
-        "symbol": "E88",
-        "description": "Описание для элемента с атомным номером 88."
-    },
-    {
-        "atomic_number": 89,
-        "name": "Элемент 89",
-        "symbol": "E89",
-        "description": "Описание для элемента с атомным номером 89."
-    },
-    {
-        "atomic_number": 90,
-        "name": "Элемент 90",
-        "symbol": "E90",
-        "description": "Описание для элемента с атомным номером 90."
-    },
-    {
-        "atomic_number": 91,
-        "name": "Элемент 91",
-        "symbol": "E91",
-        "description": "Описание для элемента с атомным номером 91."
-    },
-    {
-        "atomic_number": 92,
-        "name": "Элемент 92",
-        "symbol": "E92",
-        "description": "Описание для элемента с атомным номером 92."
-    },
-    {
-        "atomic_number": 93,
-        "name": "Элемент 93",
-        "symbol": "E93",
-        "description": "Описание для элемента с атомным номером 93."
-    },
-    {
-        "atomic_number": 94,
-        "name": "Элемент 94",
-        "symbol": "E94",
-        "description": "Описание для элемента с атомным номером 94."
-    },
-    {
-        "atomic_number": 95,
-        "name": "Элемент 95",
-        "symbol": "E95",
-        "description": "Описание для элемента с атомным номером 95."
-    },
-    {
-        "atomic_number": 96,
-        "name": "Элемент 96",
-        "symbol": "E96",
-        "description": "Описание для элемента с атомным номером 96."
-    },
-    {
-        "atomic_number": 97,
-        "name": "Элемент 97",
-        "symbol": "E97",
-        "description": "Описание для элемента с атомным номером 97."
-    },
-    {
-        "atomic_number": 98,
-        "name": "Элемент 98",
-        "symbol": "E98",
-        "description": "Описание для элемента с атомным номером 98."
-    },
-    {
-        "atomic_number": 99,
-        "name": "Элемент 99",
-        "symbol": "E99",
-        "description": "Описание для элемента с атомным номером 99."
-    },
-    {
-        "atomic_number": 100,
-        "name": "Элемент 100",
-        "symbol": "E100",
-        "description": "Описание для элемента с атомным номером 100."
-    },
-    {
-        "atomic_number": 101,
-        "name": "Элемент 101",
-        "symbol": "E101",
-        "description": "Описание для элемента с атомным номером 101."
-    },
-    {
-        "atomic_number": 102,
-        "name": "Элемент 102",
-        "symbol": "E102",
-        "description": "Описание для элемента с атомным номером 102."
-    },
-    {
-        "atomic_number": 103,
-        "name": "Элемент 103",
-        "symbol": "E103",
-        "description": "Описание для элемента с атомным номером 103."
-    },
-    {
-        "atomic_number": 104,
-        "name": "Элемент 104",
-        "symbol": "E104",
-        "description": "Описание для элемента с атомным номером 104."
-    },
-    {
-        "atomic_number": 105,
-        "name": "Элемент 105",
-        "symbol": "E105",
-        "description": "Описание для элемента с атомным номером 105."
-    },
-    {
-        "atomic_number": 106,
-        "name": "Элемент 106",
-        "symbol": "E106",
-        "description": "Описание для элемента с атомным номером 106."
-    },
-    {
-        "atomic_number": 107,
-        "name": "Элемент 107",
-        "symbol": "E107",
-        "description": "Описание для элемента с атомным номером 107."
-    },
-    {
-        "atomic_number": 108,
-        "name": "Элемент 108",
-        "symbol": "E108",
-        "description": "Описание для элемента с атомным номером 108."
-    },
-    {
-        "atomic_number": 109,
-        "name": "Элемент 109",
-        "symbol": "E109",
-        "description": "Описание для элемента с атомным номером 109."
-    },
-    {
-        "atomic_number": 110,
-        "name": "Элемент 110",
-        "symbol": "E110",
-        "description": "Описание для элемента с атомным номером 110."
-    },
-    {
-        "atomic_number": 111,
-        "name": "Элемент 111",
-        "symbol": "E111",
-        "description": "Описание для элемента с атомным номером 111."
-    },
-    {
-        "atomic_number": 112,
-        "name": "Элемент 112",
-        "symbol": "E112",
-        "description": "Описание для элемента с атомным номером 112."
-    },
-    {
-        "atomic_number": 113,
-        "name": "Элемент 113",
-        "symbol": "E113",
-        "description": "Описание для элемента с атомным номером 113."
-    },
-    {
-        "atomic_number": 114,
-        "name": "Элемент 114",
-        "symbol": "E114",
-        "description": "Описание для элемента с атомным номером 114."
-    },
-    {
-        "atomic_number": 115,
-        "name": "Элемент 115",
-        "symbol": "E115",
-        "description": "Описание для элемента с атомным номером 115."
-    },
-    {
-        "atomic_number": 116,
-        "name": "Элемент 116",
-        "symbol": "E116",
-        "description": "Описание для элемента с атомным номером 116."
-    },
-    {
-        "atomic_number": 117,
-        "name": "Элемент 117",
-        "symbol": "E117",
-        "description": "Описание для элемента с атомным номером 117."
-    },
-    {
-        "atomic_number": 118,
-        "name": "Элемент 118",
-        "symbol": "E118",
-        "description": "Описание для элемента с атомным номером 118."
-    }
+    {"atomic_number": 1, "name": "Hydrogen", "symbol": "H", "description": "Hydrogen is the lightest and most abundant element in the universe, crucial for stars and life."},
+    {"atomic_number": 2, "name": "Helium", "symbol": "He", "description": "Helium is a non-toxic, inert gas used in balloons and as a cooling medium in various industries."},
+    {"atomic_number": 3, "name": "Lithium", "symbol": "Li", "description": "Lithium is a soft metal used in rechargeable batteries and heat-resistant glass."},
+    {"atomic_number": 4, "name": "Beryllium", "symbol": "Be", "description": "Beryllium is a rare metal, lightweight and strong, primarily used in aerospace and defense industries."},
+    {"atomic_number": 5, "name": "Boron", "symbol": "B", "description": "Boron is a metalloid used in glassmaking and as an essential nutrient for plants."},
+    {"atomic_number": 6, "name": "Carbon", "symbol": "C", "description": "Carbon is the foundation of life on Earth and exists in various forms, including graphite and diamond."},
+    {"atomic_number": 7, "name": "Nitrogen", "symbol": "N", "description": "Nitrogen makes up 78% of Earth's atmosphere and is essential for plant growth and protein formation."},
+    {"atomic_number": 8, "name": "Oxygen", "symbol": "O", "description": "Oxygen is a colorless, odorless gas essential for respiration in most life forms on Earth."},
+    {"atomic_number": 9, "name": "Fluorine", "symbol": "F", "description": "Fluorine is a highly reactive, corrosive element used in making various chemicals and compounds."},
+    {"atomic_number": 10, "name": "Neon", "symbol": "Ne", "description": "Neon is a noble gas known for its bright red-orange glow in signs and lights."},
+    {"atomic_number": 11, "name": "Sodium", "symbol": "Na", "description": "Sodium is a highly reactive metal, commonly found in salt and used in various chemical reactions."},
+    {"atomic_number": 12, "name": "Magnesium", "symbol": "Mg", "description": "Magnesium is a light metal used in alloys, aircraft construction, and as a component in batteries."},
+    {"atomic_number": 13, "name": "Aluminum", "symbol": "Al", "description": "Aluminum is a lightweight, non-corrosive metal commonly used in packaging, construction, and transportation."},
+    {"atomic_number": 14, "name": "Silicon", "symbol": "Si", "description": "Silicon is a metalloid widely used in electronics and as a major component of sand and computer chips."},
+    {"atomic_number": 15, "name": "Phosphorus", "symbol": "P", "description": "Phosphorus is a highly reactive element essential for life, especially in DNA and ATP."},
+    {"atomic_number": 16, "name": "Sulfur", "symbol": "S", "description": "Sulfur is a yellow, non-metallic element used in fertilizers, chemicals, and medicines."},
+    {"atomic_number": 17, "name": "Chlorine", "symbol": "Cl", "description": "Chlorine is a greenish-yellow gas used in disinfectants and in the production of plastics."},
+    {"atomic_number": 18, "name": "Argon", "symbol": "Ar", "description": "Argon is a colorless, odorless noble gas used in light bulbs and as an inert gas in welding."},
+    {"atomic_number": 19, "name": "Potassium", "symbol": "K", "description": "Potassium is an alkali metal essential for plant growth and nerve function in animals."},
+    {"atomic_number": 20, "name": "Calcium", "symbol": "Ca", "description": "Calcium is a vital element for bone health and is commonly found in bones and shells."},
+    {"atomic_number": 21, "name": "Scandium", "symbol": "Sc", "description": "Scandium is a rare metal used in aerospace materials and sports equipment for its lightweight properties."},
+    {"atomic_number": 22, "name": "Titanium", "symbol": "Ti", "description": "Titanium is a strong, lightweight metal used in aerospace, medical implants, and high-end consumer products."},
+    {"atomic_number": 23, "name": "Vanadium", "symbol": "V", "description": "Vanadium is a hard, corrosion-resistant metal used in steel alloys and batteries."},
+    {"atomic_number": 24, "name": "Chromium", "symbol": "Cr", "description": "Chromium is a shiny, steel-gray metal known for its use in stainless steel and in chrome plating."},
+    {"atomic_number": 25, "name": "Manganese", "symbol": "Mn", "description": "Manganese is a metal important for steel production and as an essential trace element in biology."},
+    {"atomic_number": 26, "name": "Iron", "symbol": "Fe", "description": "Iron is one of the most abundant metals on Earth, widely used in construction and manufacturing."},
+    {"atomic_number": 27, "name": "Cobalt", "symbol": "Co", "description": "Cobalt is a hard metal used in alloys for high-temperature applications and in battery technology."},
+    {"atomic_number": 28, "name": "Nickel", "symbol": "Ni", "description": "Nickel is a corrosion-resistant metal used in coins, batteries, and stainless steel."},
+    {"atomic_number": 29, "name": "Copper", "symbol": "Cu", "description": "Copper is a highly conductive metal used in electrical wiring, coins, and plumbing."},
+    {"atomic_number": 30, "name": "Zinc", "symbol": "Zn", "description": "Zinc is a metal commonly used for galvanizing other metals and in batteries and cosmetics."},
+    {"atomic_number": 31, "name": "Gallium", "symbol": "Ga", "description": "Gallium is a soft metal used in electronics and as a component in solar cells and LEDs."},
+    {"atomic_number": 32, "name": "Germanium", "symbol": "Ge", "description": "Germanium is a metalloid used in semiconductors, fiber optics, and infrared optics."},
+    {"atomic_number": 33, "name": "Arsenic", "symbol": "As", "description": "Arsenic is a toxic metalloid used in pesticides and semiconductors."},
+    {"atomic_number": 34, "name": "Selenium", "symbol": "Se", "description": "Selenium is a non-metal used in electronics, glassmaking, and as a micronutrient."},
+    {"atomic_number": 35, "name": "Bromine", "symbol": "Br", "description": "Bromine is a reddish-brown liquid used in flame retardants and in water treatment."},
+    {"atomic_number": 36, "name": "Krypton", "symbol": "Kr", "description": "Krypton is a colorless, odorless noble gas used in lighting and photographic flashes."},
+    {"atomic_number": 37, "name": "Rubidium", "symbol": "Rb", "description": "Rubidium is a highly reactive alkali metal used in research and in atomic clocks."},
+    {"atomic_number": 38, "name": "Strontium", "symbol": "Sr", "description": "Strontium is used in fireworks for its red color and in certain medical treatments."},
+    {"atomic_number": 39, "name": "Yttrium", "symbol": "Y", "description": "Yttrium is used in superconductors, LEDs, and phosphors for color television tubes."},
+    {"atomic_number": 40, "name": "Zirconium", "symbol": "Zr", "description": "Zirconium is a corrosion-resistant metal used in nuclear reactors and in jewelry."},
+    {"atomic_number": 41, "name": "Niobium", "symbol": "Nb", "description": "Niobium is a metal used in superconducting materials and high-strength steel alloys."},
+    {"atomic_number": 42, "name": "Molybdenum", "symbol": "Mo", "description": "Molybdenum is a metal important for steel production, high-temperature alloys, and electronics."},
+    {"atomic_number": 43, "name": "Technetium", "symbol": "Tc", "description": "Technetium is a synthetic element used in medical imaging and as a radiation source."},
+    {"atomic_number": 44, "name": "Ruthenium", "symbol": "Ru", "description": "Ruthenium is a rare metal used in electronics, catalysis, and in the production of electrical contacts."},
+    {"atomic_number": 45, "name": "Rhodium", "symbol": "Rh", "description": "Rhodium is a precious metal used in catalytic converters and in jewelry."},
+    {"atomic_number": 46, "name": "Palladium", "symbol": "Pd", "description": "Palladium is a rare metal used in catalytic converters, hydrogen storage, and electronics."},
+    {"atomic_number": 47, "name": "Silver", "symbol": "Ag", "description": "Silver is a precious metal used in jewelry, electronics, and as currency in the past."},
+    {"atomic_number": 48, "name": "Cadmium", "symbol": "Cd", "description": "Cadmium is a toxic metal used in batteries, pigments, and in electroplating."},
+    {"atomic_number": 49, "name": "Indium", "symbol": "In", "description": "Indium is a soft metal used in semiconductors, solar cells, and as a component in solder."},
+    {"atomic_number": 50, "name": "Tin", "symbol": "Sn", "description": "Tin is a soft, corrosion-resistant metal used in coatings, alloys, and food containers."},
+    {"atomic_number": 51, "name": "Antimony", "symbol": "Sb", "description": "Antimony is a metalloid used in flame retardants, lead batteries, and semiconductors."},
+    {"atomic_number": 52, "name": "Tellurium", "symbol": "Te", "description": "Tellurium is a metalloid used in alloys, solar cells, and in thermoelectric devices."},
+    {"atomic_number": 53, "name": "Iodine", "symbol": "I", "description": "Iodine is a halogen essential for thyroid function and commonly used as a disinfectant."},
+    {"atomic_number": 54, "name": "Xenon", "symbol": "Xe", "description": "Xenon is a noble gas used in lighting, anesthesia, and as a general anesthetic."},
+    {"atomic_number": 55, "name": "Cesium", "symbol": "Cs", "description": "Cesium is a highly reactive alkali metal used in atomic clocks and research."},
+    {"atomic_number": 56, "name": "Barium", "symbol": "Ba", "description": "Barium is used in medical imaging, fireworks, and in the production of glass and ceramics."},
+    {"atomic_number": 57, "name": "Lanthanum", "symbol": "La", "description": "Lanthanum is a rare earth metal used in electronics, batteries, and as a catalyst."},
+    {"atomic_number": 58, "name": "Cerium", "symbol": "Ce", "description": "Cerium is used in catalytic converters, glass polishing, and as a catalyst in industrial processes."},
+    {"atomic_number": 59, "name": "Praseodymium", "symbol": "Pr", "description": "Praseodymium is a rare earth metal used in magnets, glass, and as a catalyst."},
+    {"atomic_number": 60, "name": "Neodymium", "symbol": "Nd", "description": "Neodymium is used in high-strength magnets, lasers, and in various industrial applications."},
+    {"atomic_number": 61, "name": "Promethium", "symbol": "Pm", "description": "Promethium is a radioactive element used in atomic batteries and research."},
+    {"atomic_number": 62, "name": "Samarium", "symbol": "Sm", "description": "Samarium is used in magnets, nuclear reactors, and as a catalyst."},
+    {"atomic_number": 63, "name": "Europium", "symbol": "Eu", "description": "Europium is a rare earth metal used in phosphorescent and fluorescent applications."},
+    {"atomic_number": 64, "name": "Gadolinium", "symbol": "Gd", "description": "Gadolinium is used in MRI contrast agents and in the production of high-performance magnets."},
+    {"atomic_number": 65, "name": "Terbium", "symbol": "Tb", "description": "Terbium is used in phosphors, magnets, and as a dopant in various materials."},
+    {"atomic_number": 66, "name": "Dysprosium", "symbol": "Dy", "description": "Dysprosium is used in magnets, lasers, and as a neutron absorber in nuclear reactors."},
+    {"atomic_number": 67, "name": "Holmium", "symbol": "Ho", "description": "Holmium is used in lasers and as a component in high-strength magnets."},
+    {"atomic_number": 68, "name": "Erbium", "symbol": "Er", "description": "Erbium is used in optical fiber amplification, lasers, and in high-strength magnets."},
+    {"atomic_number": 69, "name": "Thulium", "symbol": "Tm", "description": "Thulium is used in lasers, radiation therapy, and in various industrial applications."},
+    {"atomic_number": 70, "name": "Ytterbium", "symbol": "Yb", "description": "Ytterbium is used in lasers, as a dopant in fiber optics, and in some high-tech alloys."},
+    {"atomic_number": 71, "name": "Lutetium", "symbol": "Lu", "description": "Lutetium is used in catalysts, as a radiation source, and in high-temperature research."},
+    {"atomic_number": 72, "name": "Hafnium", "symbol": "Hf", "description": "Hafnium is used in nuclear reactors and in the production of high-temperature alloys."},
+    {"atomic_number": 73, "name": "Tantalum", "symbol": "Ta", "description": "Tantalum is used in electronics, capacitors, and in high-temperature applications."},
+    {"atomic_number": 74, "name": "Tungsten", "symbol": "W", "description": "Tungsten is a dense metal used in light bulb filaments, aerospace components, and military applications."},
+    {"atomic_number": 75, "name": "Rhenium", "symbol": "Re", "description": "Rhenium is used in high-performance engines and in catalytic processes."},
+    {"atomic_number": 76, "name": "Osmium", "symbol": "Os", "description": "Osmium is a dense, hard metal used in electrical contacts and in some chemical processes."},
+    {"atomic_number": 77, "name": "Iridium", "symbol": "Ir", "description": "Iridium is a dense, corrosion-resistant metal used in electrical contacts and high-temperature applications."},
+    {"atomic_number": 78, "name": "Platinum", "symbol": "Pt", "description": "Platinum is a precious metal used in jewelry, catalytic converters, and in industrial processes."},
+    {"atomic_number": 79, "name": "Gold", "symbol": "Au", "description": "Gold is a precious metal used in jewelry, currency, and in various electronic components."},
+    {"atomic_number": 80, "name": "Mercury", "symbol": "Hg", "description": "Mercury is a liquid metal used in thermometers, fluorescent lights, and electrical switches."},
+    {"atomic_number": 81, "name": "Thallium", "symbol": "Tl", "description": "Thallium is a toxic metal used in electronics and in some medical treatments."},
+    {"atomic_number": 82, "name": "Lead", "symbol": "Pb", "description": "Lead is a toxic metal used in batteries, shielding from radiation, and in certain construction materials."},
+    {"atomic_number": 83, "name": "Bismuth", "symbol": "Bi", "description": "Bismuth is a heavy metal used in cosmetics, pharmaceuticals, and in low-melting alloys."},
+    {"atomic_number": 84, "name": "Polonium", "symbol": "Po", "description": "Polonium is a highly radioactive element used in research and as a heat source for space missions."},
+    {"atomic_number": 85, "name": "Astatine", "symbol": "At", "description": "Astatine is a rare and highly radioactive halogen used in medical research."},
+    {"atomic_number": 86, "name": "Radon", "symbol": "Rn", "description": "Radon is a radioactive noble gas that occurs naturally from the decay of uranium and thorium."},
+    {"atomic_number": 87, "name": "Francium", "symbol": "Fr", "description": "Francium is a highly radioactive and unstable element, the least stable of the alkali metals."},
+    {"atomic_number": 88, "name": "Radium", "symbol": "Ra", "description": "Radium is a radioactive metal once used in luminous paint and for cancer treatment."},
+    {"atomic_number": 89, "name": "Actinium", "symbol": "Ac", "description": "Actinium is a radioactive metal used in radiation therapy and as a neutron source."},
+    {"atomic_number": 90, "name": "Thorium", "symbol": "Th", "description": "Thorium is a radioactive metal considered as a potential alternative to uranium in nuclear reactors."},
+    {"atomic_number": 91, "name": "Protactinium", "symbol": "Pa", "description": "Protactinium is a rare radioactive element used in nuclear reactors and scientific research."},
+    {"atomic_number": 92, "name": "Uranium", "symbol": "U", "description": "Uranium is a radioactive metal used as fuel in nuclear reactors and for nuclear weapons."},
+    {"atomic_number": 93, "name": "Neptunium", "symbol": "Np", "description": "Neptunium is a radioactive element used in the production of plutonium and in nuclear research."},
+    {"atomic_number": 94, "name": "Plutonium", "symbol": "Pu", "description": "Plutonium is a highly radioactive element used as a fuel in nuclear reactors and in nuclear weapons."},
+    {"atomic_number": 95, "name": "Americium", "symbol": "Am", "description": "Americium is used in smoke detectors and as a source of radiation in certain scientific instruments."},
+    {"atomic_number": 96, "name": "Curium", "symbol": "Cm", "description": "Curium is a synthetic radioactive element used in nuclear reactors and for scientific research."},
+    {"atomic_number": 97, "name": "Berkelium", "symbol": "Bk", "description": "Berkelium is a radioactive element used in scientific research, particularly in the production of heavier elements."},
+    {"atomic_number": 98, "name": "Californium", "symbol": "Cf", "description": "Californium is a radioactive element used in neutron sources and in medical treatments."},
+    {"atomic_number": 99, "name": "Einsteinium", "symbol": "Es", "description": "Einsteinium is a synthetic element used primarily in scientific research, especially in nuclear studies."},
+    {"atomic_number": 100, "name": "Fermium", "symbol": "Fm", "description": "Fermium is a synthetic radioactive element used in scientific research to explore nuclear reactions."},
+    {"atomic_number": 101, "name": "Mendelevium", "symbol": "Md", "description": "Mendelevium is a synthetic element named after Dmitri Mendeleev, used in nuclear research."},
+    {"atomic_number": 102, "name": "Nobelium", "symbol": "No", "description": "Nobelium is a synthetic element named after Alfred Nobel, used in scientific research, particularly in the study of nuclear chemistry."},
+    {"atomic_number": 103, "name": "Lawrencium", "symbol": "Lr", "description": "Lawrencium is a synthetic element used in nuclear research, particularly in the synthesis of heavier elements."},
+    {"atomic_number": 104, "name": "Rutherfordium", "symbol": "Rf", "description": "Rutherfordium is a synthetic element used in nuclear physics and named after Ernest Rutherford."},
+    {"atomic_number": 105, "name": "Dubnium", "symbol": "Db", "description": "Dubnium is a synthetic element named after Dubna, Russia, used in nuclear chemistry and physics."},
+    {"atomic_number": 106, "name": "Seaborgium", "symbol": "Sg", "description": "Seaborgium is a synthetic element named after Glenn T. Seaborg, used in advanced nuclear research."},
+    {"atomic_number": 107, "name": "Bohrium", "symbol": "Bh", "description": "Bohrium is a synthetic element named after Niels Bohr, used in scientific research to study nuclear reactions."},
+    {"atomic_number": 108, "name": "Hassium", "symbol": "Hs", "description": "Hassium is a synthetic element used in nuclear research, named after the German state of Hesse."},
+    {"atomic_number": 109, "name": "Meitnerium", "symbol": "Mt", "description": "Meitnerium is a synthetic element named after Lise Meitner, used in the study of nuclear processes."},
+    {"atomic_number": 110, "name": "Darmstadtium", "symbol": "Ds", "description": "Darmstadtium is a synthetic element named after Darmstadt, Germany, used in advanced nuclear research."},
+    {"atomic_number": 111, "name": "Roentgenium", "symbol": "Rg", "description": "Roentgenium is a synthetic element named after Wilhelm Röntgen, used in nuclear physics experiments."},
+    {"atomic_number": 112, "name": "Copernicium", "symbol": "Cn", "description": "Copernicium is a synthetic element named after Nicolaus Copernicus, used in nuclear science."},
+    {"atomic_number": 113, "name": "Nihonium", "symbol": "Nh", "description": "Nihonium is a synthetic element named after Japan (Nihon), used in nuclear research."},
+    {"atomic_number": 114, "name": "Flerovium", "symbol": "Fl", "description": "Flerovium is a synthetic element named after the Flerov Laboratory of Nuclear Reactions in Russia."},
+    {"atomic_number": 115, "name": "Moscovium", "symbol": "Mc", "description": "Moscovium is a synthetic element named after Moscow, Russia, used in advanced nuclear research."},
+    {"atomic_number": 116, "name": "Livermorium", "symbol": "Lv", "description": "Livermorium is a synthetic element named after the Lawrence Livermore National Laboratory, used in nuclear studies."},
+    {"atomic_number": 117, "name": "Tennessine", "symbol": "Ts", "description": "Tennessine is a synthetic element named after the state of Tennessee, used in nuclear chemistry."},
+    {"atomic_number": 118, "name": "Oganesson", "symbol": "Og", "description": "Oganesson is a synthetic element named after Yuri Oganessian, used in cutting-edge nuclear research."}
 ]
